@@ -9,5 +9,10 @@ venv/
 *.pth
 *.ckpt
 *.bin
+*.safetensors
 wandb/
 runs/
+data/
+output/
+log/
+logs/
